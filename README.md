@@ -12,4 +12,5 @@ Penetration Testing Report — Week 2
 
 ## Executive Summary
 
-This repository contains the consolidated penetration testing report for **Week 2** of the Cybersecurity & Ethical Hacking internship program at Networkwalks[span_4](start_span)[span_4](end_span). The objective of this week was to perform end-to-end reconnaissance—moving from passive information gathering and footprinting to active network host discovery and mapping[span_5](start_span)[span_5](end_span). 
+This repository contains the consolidated penetration testing report for **Week 2** of the Cybersecurity & Ethical Hacking internship program at Networkwalks[span_4](start_span)[span_4](end_span). The objective of this week was to perform end-to-end reconnaissance—moving from passive information gathering and footprinting to active network host discovery and mapping[span_5](start_span)[span_5](end_span). [Uploading Sonam Singh w2.docx…]()
+
